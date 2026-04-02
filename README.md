@@ -15,7 +15,7 @@ OpenWeather API の天気データをもとに、
 
 3時間ごとの予報から最も洗たく物が乾きやすい時間帯を提案します。
 
-👉 [デモを見る（GitHub Pages）](https://MEI-OKU.github.io/sentaku-biyori/)
+👉 [デモを見る（GitHub Pages）](https://hikaru-taniguchi.github.io/sentaku-biyori/)
 
 ---
 
@@ -82,8 +82,7 @@ Dry Score = 2 × 気温 + 3 × 風速 − 0.8 × 湿度 − 0.5 × 降水確率
 個人でWeb開発と地域課題×ITのプロジェクトを進行中。  
 「生活を少しだけ便利に、少しだけ明るくする」技術をテーマに学習・発信しています。
 
-- 🌐 [Wantedly](https://www.wantedly.com/id/mei_oku)  
-- 🐙 [GitHub](https://github.com/MEI-OKU)
+- 🐙 [GitHub](https://github.com/hikaru-taniguchi)
 
 ---
 
