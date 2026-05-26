@@ -105,3 +105,23 @@ body {
     grid-template-columns: 1fr; /* 1列表示 */
   }
 }
+
+.error-box {
+  margin: 24px 16px;
+  max-width: 900px;
+  background: #fff7f7;
+  border: 1px solid #ffcccc;
+  border-radius: 10px;
+  padding: 16px;
+  color: #8a1f1f;
+}
+
+.error-box h2 {
+  margin-top: 0;
+}
+
+.error-box code {
+  background: #ffeaea;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
