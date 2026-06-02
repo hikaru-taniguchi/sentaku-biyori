@@ -64,4 +64,4 @@ HTML / CSS / JavaScript を学習中。
 
 ---
 
-© 2025 Hikaru Taniguchi
+© 2026 Hikaru Taniguchi
